@@ -26,5 +26,7 @@ Based on the user's choice, call the appropriate function with the input numbers
 Repeat Functionality:
 
 Allow users to perform multiple calculations by asking if they want to continue after each operation.
+![Screenshot 2024-08-16 181133](https://github.com/user-attachments/assets/864fb9e5-de33-46a7-b40e-b7962116d1eb)
+
 
 
